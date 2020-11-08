@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.quantumwebgarden.fooddelivery.HomeFragment"
+        android:label="Home"
+        tools:layout="@layout/home_layout" />
+    <fragment
+        android:id="@+id/cartFragment"
+        android:name="com.quantumwebgarden.fooddelivery.CartFragment"
+        android:label="Cart"
+        tools:layout="@layout/cart_layout" />
+    <fragment
+        android:id="@+id/shopFragment"
+        android:name="com.quantumwebgarden.fooddelivery.ShopFragment"
+        android:label="Shop"
+        tools:layout="@layout/shop_layout" />
+</navigation>

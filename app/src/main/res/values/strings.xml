@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Food Delivery</string>
+    <string name="profile_name">Profile Name</string>
 </resources>

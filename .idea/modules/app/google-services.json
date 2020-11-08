@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1068401898457",
+    "firebase_url": "https://fooddeliveryquantum.firebaseio.com",
+    "project_id": "fooddeliveryquantum",
+    "storage_bucket": "fooddeliveryquantum.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068401898457:android:d63488c4b28206f1445fc8",
+        "android_client_info": {
+          "package_name": "com.quantumwebgarden.fooddelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068401898457-k417ig1nvp5h653sdbie4rbl18sdc6po.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.quantumwebgarden.fooddelivery",
+            "certificate_hash": "ed59f32bed8c68fce5f2bcecc855eee8ac733a5a"
+          }
+        },
+        {
+          "client_id": "1068401898457-stn18v1qu66omvt9o56652d4leo6r9v1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqmInGUfOGFPXGeqr_e__03e01twRN-q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068401898457-stn18v1qu66omvt9o56652d4leo6r9v1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
